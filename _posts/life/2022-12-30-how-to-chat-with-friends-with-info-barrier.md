@@ -5,11 +5,9 @@ description:
 categories:
   - Life
 tags:
-  - Faith
   - Philosophy
-  - Wisdom
-  - Social Media
-  - Fraud & False
+  - Immigration
+  - Travel
 ---
 
 临近新年，我发了条短信给F老师问候，祝新年安康，顺利如意！

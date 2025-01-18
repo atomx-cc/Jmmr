@@ -3,13 +3,11 @@ title: "那些思维错乱的俗话"
 date: 2010-12-11
 description: 
 categories:
-  - Life
+  - Education
 tags:
-  - History  
-  - Social Media
-  - Philosophy
   - Fraud & False
   - China
+  - Philosophy
 ---
 
 

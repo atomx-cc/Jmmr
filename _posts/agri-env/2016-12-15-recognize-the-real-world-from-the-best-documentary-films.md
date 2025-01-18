@@ -14,7 +14,11 @@ tags:
 ---
 
 
-我是纪录片爱好者，几年前和人经常互相分享，裘成向我推荐了她的纪录片清单，她是紐約大學第一個華人食物学博士，涉及食物和環境的跨學科研究領域，更多关于她的介绍：
+我是纪录片爱好者，几年前和人经常互相分享，裘成向我推荐了她的纪录片清单，她是紐約大學第一個華人食物学博士，涉及食物和環境的跨學科研究領域。
+
+# 前言
+
+更多关于她的介绍：
 
 [Linkedin- 裘成](https://cn.linkedin.com/in/cheng-qiu-28062520)
 
@@ -22,15 +26,17 @@ tags:
 
 [http://www.hystnc.com/nd.jsp?id=884](http://www.hystnc.com/nd.jsp?id=884)
 
-感谢她的辛勤收集的纪录片。
+感谢她辛勤收集的纪录片，以下内容转载自她的文章。
 
-《全球最佳纪录片 | 带你认识真实的世界》自2019年首发以来，影响了很多人关注了解食物、环境、健康与社会经济文化的真相。新的一年开启，献上2020更新版，祝愿更多地球伙伴醒来，播撒希望并带来系统性转变。
+# 《全球最佳纪录片 | 带你认识真实的世界》
+
+自2019年首发以来，影响了很多人关注了解食物、环境、健康与社会经济文化的真相。新的一年开启，献上2020更新版，祝愿更多地球伙伴醒来，播撒希望并带来系统性转变。
 
 [https://mmbiz.qpic.cn/mmbiz_png/iciatmKQMRMias7HyrtRP917XJJoIKWNeruyKbYOBBcTKgHZFRcxmMLiaLhic3xSTY09QYNib7FJSxTcRTXLNuHFuuVg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_png/iciatmKQMRMias7HyrtRP917XJJoIKWNeruyKbYOBBcTKgHZFRcxmMLiaLhic3xSTY09QYNib7FJSxTcRTXLNuHFuuVg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 [https://mmbiz.qpic.cn/mmbiz_jpg/iciatmKQMRMiat7icn4c70rCjBUDggFfzGTozT0umOtgq2BzRlvaxaDMjFemYh0h8uj2ic0kDb8pIdS2G9Nxvt6haBA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_jpg/iciatmKQMRMiat7icn4c70rCjBUDggFfzGTozT0umOtgq2BzRlvaxaDMjFemYh0h8uj2ic0kDb8pIdS2G9Nxvt6haBA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-当今世界有三种人。
+# 当今世界有三种人。
 
 他们对现实世界有着三种不同版本的理解。
 
@@ -66,6 +72,8 @@ tags:
 
 [data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
+# 纪录片类别
+
 我将纪录片大致分成了四个类别：
 
 - 地球家园 (共11部)；
@@ -86,7 +94,7 @@ tags:
 
 [data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
-**— 地球家园** **—**
+# **— 地球家园** **—**
 
 [https://mmbiz.qpic.cn/mmbiz_jpg/iciatmKQMRMiat7icn4c70rCjBUDggFfzGTojA2H5ZStUlp8g1bc9IIibUTV6Eo26SAiaYCyeibfUDjGvnxtkWOgUpY0g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_jpg/iciatmKQMRMiat7icn4c70rCjBUDggFfzGTojA2H5ZStUlp8g1bc9IIibUTV6Eo26SAiaYCyeibfUDjGvnxtkWOgUpY0g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -182,7 +190,7 @@ tags:
 
 出品：Jeff McKay
 
-**— 经济与发展** **—**
+# **— 经济发展** **—**
 
 [data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -230,7 +238,7 @@ tags:
 
 导演：Mark Achbar, Jennifer Abbott
 
-**— 环境、健康与社会** **—**
+# **— 环境、健康与社会** **—**
 
 [data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -504,7 +512,7 @@ tags:
 
 全球生态村范例
 
-**— 人类自我** **—**
+# **— 人类自我** **—**
 
 [data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 

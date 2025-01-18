@@ -3,11 +3,11 @@ title: "如何化解“积郁成疾”"
 date: 2024-5-4
 description: 
 categories:
-  - life
+  - Life
 tags:
-  - career
-  - philosophy
-  - wisdom
+  - Agriculture & Farm
+  - Health
+  - Immigration
 ---
 
 最近又一位老哥生病了，在网络上发求助信息，我于是捐赠并在播客下留言。

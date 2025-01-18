@@ -3,12 +3,11 @@ title: "《莲师心咒日常简易修持方法》"
 date: 2021-8-16
 description: 
 categories:
-  - life
+  - Life
 tags:
   - God
-  - Faith
   - Philosophy
-  - Wisdom
+  - Health
 ---
 
 听叶先生的建议，为去世的王金勇兄弟超度，为在天涯漂泊的人祈福。

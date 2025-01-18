@@ -7,7 +7,6 @@ categories:
 tags:
   - History  
   - Philosophy
-  - Wisdom
   - China
 ---
 

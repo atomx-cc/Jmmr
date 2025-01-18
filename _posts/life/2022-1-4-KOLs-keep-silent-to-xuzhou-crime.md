@@ -6,11 +6,8 @@ categories:
   - Politics
   - Life
 tags:
-  - Colony
-  - Social Media
   - Crime
   - China
-  - Fraud & False
   - Immigration
 ---
 

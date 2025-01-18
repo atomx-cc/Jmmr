@@ -3,11 +3,11 @@ title: "兄弟，我该说点什么好？"
 date: 2022-12-31
 description: 
 categories:
-  - life
+  - Life
 tags:
-  - career
-  - philosophy
-  - wisdom
+  - Philosophy
+  - Immigration
+  - Travel
 ---
 
 
@@ -57,9 +57,8 @@ tags:
 
 那是你的家吗？你像个牲口一样被强制测核酸，你还是个人吗？
 
-《篡改版新东方董老师的话》
 
-[https://www.zhihu.com/question/263746826](https://www.zhihu.com/question/263746826)
+[《篡改版新东方董老师的话》](https://www.zhihu.com/question/263746826)
 
 阿拉斯加的鳕鱼正跃出水面时，
 

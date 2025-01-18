@@ -8,7 +8,7 @@ categories:
 tags:
   - History
   - China
-  - Fraud & False
+  - Marketing
 ---
 
 此时正值牟其中第三次出狱创业，我给他编辑南德的历史档案材料，他给我们经常推荐各种阅读材料，有助于了解中国改革开放的坷坎历程。

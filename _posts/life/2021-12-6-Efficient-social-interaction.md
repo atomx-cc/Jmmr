@@ -4,10 +4,11 @@ date: 2021-12-6
 description: 
 categories:
   - Life
+  - Education
 tags:
-  - Social Media
-  - Internet
-  - Scams & Frauds
+  - Philosophy
+  - AI
+  - Health
 ---
 
 

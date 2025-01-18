@@ -4,13 +4,10 @@ date: 2022-9-2
 description: 
 categories:
   - Life
-  - Education
 tags:
   - Philosophy
-  - Wisdom
   - Immigration
-  - China
-  - Fraud & False
+  - Travel
 ---
 
 提示：潤的話題只適合像我一樣從0開始的草根，或有強烈願望從陷阱脫身的人。本篇不適合某些特定人群，例如家裡資財豐厚或特權階層，無論在哪裡生活都一樣，不影響他們的生活質量。

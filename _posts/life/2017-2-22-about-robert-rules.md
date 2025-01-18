@@ -3,15 +3,12 @@ title: "萝卜规则能阻止人类吵架吗？"
 date: 2017-2-22
 description: 
 categories:
-  - Politics
-  - Life
+  - Education
 tags:
-    - Philosophy
-    - Wisdom
-    - War
+  - Fraud & False
+  - China
+  - Philosophy
 ---
-
-
 
 
 # [《罗伯特议事规则》](https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%E8%AE%AE%E4%BA%8B%E8%A7%84%E5%88%99)
@@ -26,11 +23,9 @@ tags:
 
 # 将罗规应用于日常生活
 
-
 开会方法，会议程序，
 
-将欧美数百年用于议会和法律体系的工具方法，应用到我们的日常工作和生活中，其重要性可参考站内的其他文章：
-
+将欧美数百年用于议会和法律体系的工具方法，应用到我们的日常工作和生活中，其重要性可参考站内的其他文章。
 
 我有长期关注过社会涙气重，普遍脏话国骂的问题，近期又遇到北大附中学生辱骂攻击知名自媒体和记者呦呦鹿鸣的典型案例，我有做过一些背景源头探索。
 

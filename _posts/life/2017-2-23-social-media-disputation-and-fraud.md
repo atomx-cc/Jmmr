@@ -3,13 +3,11 @@ title: "北大附中学生围攻知名自媒体 - 哟哟鹿鸣"
 date: 2017-2-23
 description: 
 categories:
-  - Life
   - Education
 tags:
-  - wisdom
-  - Social Media
-  - Internet
   - Fraud & False
+  - China
+  - Philosophy
 ---
 
 # **缘起**

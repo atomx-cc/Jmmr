@@ -33,23 +33,19 @@ tags:
 
 我们用过的一些MOOC课程
 
-《动物行为和福利》
 
-[https://www.coursera.org/learn/animal-welfare](https://www.coursera.org/learn/animal-welfare)
+
+[《动物行为和福利》](https://www.coursera.org/learn/animal-welfare)
 
 我们字幕组做的科普短片
 
-《动物福利，环境，农业》系列
-
-[https://mp.weixin.qq.com/s/V_Vt9EPzP9JDfacdSGz_ZQ](https://mp.weixin.qq.com/s/V_Vt9EPzP9JDfacdSGz_ZQ)
+[《动物福利，环境，农业》系列](https://mp.weixin.qq.com/s/V_Vt9EPzP9JDfacdSGz_ZQ)
 
 **微生物**
 
 养殖排污无害化处理的技术规程
 
-干撒式发酵床养猪技术优势
-
-[https://www.jianshu.com/p/bd7afda12a09](https://www.jianshu.com/p/bd7afda12a09)
+[干撒式发酵床养猪技术优势](https://www.jianshu.com/p/bd7afda12a09)
 
 [http://www.bjhxky.com/](http://www.bjhxky.com/)
 
@@ -57,51 +53,42 @@ tags:
 
 美国科学教育的K12阶段是跨学科的，将我们认为的不同学科糅合在一起上，幼儿园阶段就开始了，确实震撼到我了。
 
-《新一代科学教育标准》Next Generation Science Standards
+[《新一代科学教育标准》Next Generation Science Standards](https://www.nextgenscience.org/)
 
-[https://www.nextgenscience.org/](https://www.nextgenscience.org/)
+[美国《新一代科学教育标准》对我国学前儿童科学教育的启示](http://www.age06.com/Age06Web3/Home/ImgFontDetail/49ab4486-9619-4994-93eb-44321c68ff12)
 
-美国《新一代科学教育标准》对我国学前儿童科学教育的启示
 
-[http://www.age06.com/Age06Web3/Home/ImgFontDetail/49ab4486-9619-4994-93eb-44321c68ff12](http://www.age06.com/Age06Web3/Home/ImgFontDetail/49ab4486-9619-4994-93eb-44321c68ff12)
 
-美国《新一代科学教育标准》科学与工程实践内容简介
-
-[http://old.pep.com.cn/czsw/jshzhx/grzhj/jcpzh/typ/jxyj/201403/t20140326_1191102.htm](http://old.pep.com.cn/czsw/jshzhx/grzhj/jcpzh/typ/jxyj/201403/t20140326_1191102.htm)
+[美国《新一代科学教育标准》科学与工程实践内容简介](http://old.pep.com.cn/czsw/jshzhx/grzhj/jcpzh/typ/jxyj/201403/t20140326_1191102.htm)
 
 ## **自然教育**
 
-嘉道理农场暨植物园
 
-[https://www.kfbg.org › chi](https://www.kfbg.org/chi/index.aspx)
+
+[嘉道理农场暨植物园](https://www.kfbg.org/chi/index.aspx)
 
 自然教育论坛
 
 natureforum
 
-中国自然教育大会 第六届全国自然教育论坛｜分论坛开放招募
+[中国自然教育大会 第六届全国自然教育论坛｜分论坛开放招募](https://mp.weixin.qq.com/s/JhG1B0FHd3zu9g4JIuv_dQ)
 
-[https://mp.weixin.qq.com/s/JhG1B0FHd3zu9g4JIuv_dQ](https://mp.weixin.qq.com/s/JhG1B0FHd3zu9g4JIuv_dQ)
 
-康奈尔|全新《自然教育》在线课程
+[康奈尔|全新《自然教育》在线课程](https://mp.weixin.qq.com/s/XE7q94imT3n_MlY55nMQxA)
 
-[https://mp.weixin.qq.com/s/XE7q94imT3n_MlY55nMQxA](https://mp.weixin.qq.com/s/XE7q94imT3n_MlY55nMQxA)
 
-推荐 | 56部有关植物的纪录片，收藏起来，慢慢看。
 
-[https://mp.weixin.qq.com/s/YjbJchHoJzzlG7_mxaM6ig](https://mp.weixin.qq.com/s/YjbJchHoJzzlG7_mxaM6ig)
+[推荐 | 56部有关植物的纪录片，收藏起来，慢慢看。](https://mp.weixin.qq.com/s/YjbJchHoJzzlG7_mxaM6ig)
 
 **森林教育Forest Education**
 
-‘50 things to do outdoors before 12 years age
-
-[https://www.nationaltrust.org.uk/visit/50-things](https://www.nationaltrust.org.uk/visit/50-things)
+[‘50 things to do outdoors before 12 years age](https://www.nationaltrust.org.uk/visit/50-things)
 
 [https://www.pinterest.com/pin/371124825525562142/?autologin=true](https://www.pinterest.com/pin/371124825525562142/?autologin=true)
 
-英国孩子12岁之前要完成的50件事，实在太让我意外了…
 
-[http://www.sohu.com/a/209186963_187466](http://www.sohu.com/a/209186963_187466)
+
+[英国孩子12岁之前要完成的50件事，实在太让我意外了…](http://www.sohu.com/a/209186963_187466)
 
 森林教育Forest Education
 
